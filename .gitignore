@@ -1,0 +1,43 @@
+HELP.md
+target/
+**/logging-linnbank.log
+**/Test Results - ParalelTestExecutionTest.html
+
+.greenrent.log
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+/log
+.idea
+*.iws
+*.iml
+*.ipr
+*.gz
+.mvn
+plan.txt
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+/logs/
+/.idea/
+
+/src/main/resources/project.txt
+!/.idea/
+!/log/
+!/.idea/
